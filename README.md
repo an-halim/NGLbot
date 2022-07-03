@@ -10,4 +10,5 @@ USAGE
 * edit username and text on index.js file
 
 Result:
-![result](https://github.com/an-halim/NGLbotblob/master/result.jpg?raw=true)
+![result](https://github.com/an-halim/NGLbot/blob/master/result.jpg?raw=true)
+
