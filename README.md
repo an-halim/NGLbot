@@ -8,3 +8,6 @@ USAGE
 - npm start
 
 * edit username and text on index.js file
+
+Result:
+![result](https://github.com/an-halim/NGLbotblob/master/result.jpg?raw=true)
